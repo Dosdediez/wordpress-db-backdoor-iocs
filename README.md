@@ -2,7 +2,7 @@
 
 Indicators of compromise and read-only detection commands from an incident response we handled in June–August 2026 on a multi-tenant Plesk server hosting WordPress sites.
 
-Full write-up (Spanish): https://www.dosdediez.com/ *(replace with the article URL)*
+Full write-up (Spanish): https://www.dosdediez.com/backdoors-en-wordpress-que-sobreviven-a-la-limpieza-analisis-de-un-incidente-real/
 
 Author: Andrés Gil Fernández — [Dosdediez Estudio](https://www.dosdediez.com/diseno-web-en-galicia/auditoria-seguridad-web/)
 
